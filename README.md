@@ -70,7 +70,7 @@ git commit -a -m 'mensagem para identificar o motivo do commit'
 <br /><b>GIT PUSH</b><br/>
 git push envia as alterações para o repositório remoto<br />É isso ai. Acabamos de enviar todo nosso trabalho e nossos colegas poderão atualizar o projeto em suas máquinas.
 ``` 
-git push
+git push -u origin nome_branch
 ```
 
 ## OUTROS COMANDOS <a name="outros"></a>
